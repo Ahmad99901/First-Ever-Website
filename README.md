@@ -21,4 +21,4 @@ FILES
 - contact us.html
 - styles.css
 
-Huge thanks to LearnCodeAcademy for giving an indepth guide on how to organize a website and key components to be a grat web designer. Thank you to everyone who sees this!
+Huge thanks to LearnCodeAcademy for giving an indepth guide on how to organize a website and key components to be a great web designer. Thank you to everyone who sees this!
