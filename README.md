@@ -21,4 +21,6 @@ FILES
 - contact us.html
 - styles.css
 
+The main focused page was the main page so other pages will not have content at the moment but in the future will be different and have content when I come back to improve on the website.
+
 Huge thanks to LearnCodeAcademy for giving an indepth guide on how to organize a website and key components to be a great web designer. Thank you to everyone who sees this!
